@@ -262,7 +262,7 @@
 
                 <ImageView
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
+                    android:layout_height="match_parent"
                     android:padding="10dp"
                     android:src="@drawable/ic_euro" />
 
@@ -288,8 +288,9 @@
                         android:textColor="@color/black"
                         android:textSize="10sp" />
 
+
                     <TextView
-                        android:layout_width="55dp"
+                        android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="0.9"
                         android:gravity="center"
